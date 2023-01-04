@@ -16,7 +16,7 @@ The stock prices for Twitter have been increasing over the years. The stock pric
 
 We used various machine learning models to predict the stock prices and they all gave a very similar score which shows a reliable trend in the prices.
 
-The model gave a very accurate score of 0.9988384036913411 (98%) which is backed up by the scatter plot. This result was given by the Linear Regression model which proved to be the most accurate model.
+The model gave a very accurate score of 0.9988384036913411 (~99%) which is backed up by the scatter plot. This result was given by the Linear Regression model which proved to be the most accurate model.
 
 The MSE value is also very low (close to 0) which shows that the model is very accurate.
 
